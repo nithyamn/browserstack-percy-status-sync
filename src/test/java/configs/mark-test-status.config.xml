@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Mark Status" thread-count="1" parallel="tests">
+    <test name="Mark Status">
+        <classes>
+            <class name="MarkTestStatus"/>
+        </classes>
+    </test>
+</suite>
