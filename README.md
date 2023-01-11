@@ -1,5 +1,5 @@
 # BrowserStack - Percy Status Sync
-* Mark you test status on BrowserStack based on the Percy build state.
+* Mark the test status on BrowserStack based on the Percy build state.
 
 ## Pre-requisites
 ````
